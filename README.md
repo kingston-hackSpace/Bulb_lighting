@@ -23,7 +23,7 @@ METAL fittings must always be connected via a flex with an earth wire due to ele
 
 
 ----
-### Purchasing Bulbs
+### Purchasing 12V Bulbs
 
 - [12V Bulb 4W LED Filament Warm White (2700K) from Amazon](https://www.amazon.co.uk/Filament-Vintage-Incandescent-Equivalent-Decorative/dp/B08K385N89/ref=sr_1_12?dib=eyJ2IjoiMSJ9.D1HgtRTjFh1mnnbX6MN6j0RgzpUmM681avH8SgfvUqLvGXkVZOk53YHueVO8N-9mhpUCZlRK9XoR_5_H2pHofZioCo9iay6FMfcv5bhBiT1zv_lXJGXo_sWllT00xeJokIxv9NSCIYZd95YL1KvNW7ZaYU3R70_xvQNiYxuqkjSJ9KiHCMxshWM6QHQSTO9ayIPRlehYASKWwpkP1wx0qQJM00GoPkcwFcmBUseQvZLyfpohf_8aaOybikzWG_G-KD3lOAHAqm9i5nVt5oMIlu1MjCpd6Q2a-2tgspJ4zo8.RNChJfKH6E-HzRdyxlbbxtPfo-DU7J8t7dP_-_vCRuk&dib_tag=se&keywords=12V+bulb&qid=1764764186&refinements=p_n_g-1004171533091%3A3794342031&rnid=3794322031&sr=8-12)
   
