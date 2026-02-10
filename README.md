@@ -20,7 +20,13 @@ PLASTIC fittings have no earth connection (two core wire only). They still need 
 
 METAL fittings must always be connected via a flex with an earth wire due to electrical hazards. Metal fittings are not suitable in some locations – the most notable of which is bathrooms. Plastic ones may be used in bathrooms, but choose the type with a longer plastic shroud which shields the components better. In practice, metal lamp-holders are generally only used for certain types of table lamps. 
 
+**Purchase Lamp Holders WITH EARTH connector:**
 
+[Edison Screw (E27) Metal and Ceramic Earthed Lampholder in Silver Nickel Finish with Metal Cord Grip](https://www.amazon.co.uk/Edison-Ceramic-Earthed-Holder-Silver/dp/B00PY2L7T2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A6KUY5VMXZJR6&th=1)
+
+[E27 Lamp Holder (Half Threaded) Gloss with Earth](https://sinolec.co.uk/gb/lamp-holders/1211571-e27-lamp-holder-half-threaded-gloss-with-earth.html)
+
+[E27 Lamp Holder (Plain Body) Gloss with Earth](https://sinolec.co.uk/gb/lamp-holders/1211570-e27-lamp-holder-plain-body-gloss-with-earth.html)
 
 ----
 ### Purchasing 12V Bulbs
