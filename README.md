@@ -28,6 +28,10 @@ METAL fittings must always be connected via a flex with an earth wire due to ele
 
 [E27 Lamp Holder (Plain Body) Gloss with Earth](https://sinolec.co.uk/gb/lamp-holders/1211570-e27-lamp-holder-plain-body-gloss-with-earth.html)
 
+**Wiring a E27 bulb socket with Earth**
+
+[How to Wire E27 Lamp Holder? (with EARTH)](https://lightbulbsocket.com/how-to-wire-e27-lamp-holder-2.html)
+
 ----
 ### Purchasing 12V Bulbs
 
