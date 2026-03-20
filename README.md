@@ -5,7 +5,7 @@ In this tutorial we will cover how to wire a lighting bulb to the mains (240V). 
 
 *Wiring to the mains is a serious hazard of **fire and electrocution** if not done properly.*
 
-NOTE: All connections to mains **MUST be supervised by a hackSpace technician**, and PAT tested by a KU electrician. Hs technicians will coordinate PAT testing of your lamp. 
+All connections to the mains **MUST be supervised by a hackSpace technician**, and PAT tested by a KU electrician. Hs technicians will coordinate PAT testing of your lamp. 
 
 ----
 ## AVOID METAL 
