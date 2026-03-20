@@ -1,13 +1,26 @@
-# Bulb lighting
+# Bulb wiring
+----
 
-### Bulb Types : CODES
+In this tutorial we will cover how to wire a lighting bulb to the mains (240V). This is **EXTREMELY DANGEROUS**, please follow this tutorial for a safe lamp making practice. 
 
-Every bulb type has unique characteristics represented by a letter, or series of letters, and a number, referred to as light bulb codes. These codes are located on the packaging and will help you determine if the bulb is the right type for your fixture.
+*Wiring to the mains is a serious hazard of **fire and electrocution** if not done properly.*
+
+NOTE: All connections to mains **MUST be supervised by a hackSpace technician**, and PAT tested by a KU electrician. Hs technicians will coordinate PAT testing of your lamp. 
+
+----
+## AVOID METAL 
+
+WARNING! Avoid metal as a material for your lamp. Metals are conductive, which add a significant electrical hazard to your lamp. If you decide make your lamp of metal, your lamp MUST be WIRE to EARTH and PAT tested. Ask a hackSpace technician for guidance. 
+
+----
+## Understanding Bulbs
+
+When choosing a bulb for your lamp, you will need to make sure that it matches the bulb socket that you will use for your lamp. We advise using the **E27 type**. More about this below.  
 
 Learn more [here](https://www.gelighting.com/inform/guide-light-bulb-sizes-types-shapes-and-codes)
 
 ----
-### Bulb Holders
+## Understanding Bulb-Holders
 
 Bulb holders are not just a practical piece; it’s the electrical heart connecting your bulb to the power source. Choosing a holder that’s compatible with your bulb type and power configuration is essential to avoid short circuits or overheating, which could potentially lead to fires. 
 
@@ -20,6 +33,11 @@ PLASTIC fittings have no earth connection (two core wire only). They still need 
 
 METAL fittings must always be connected via a flex with an earth wire due to electrical hazards. Metal fittings are not suitable in some locations – the most notable of which is bathrooms. Plastic ones may be used in bathrooms, but choose the type with a longer plastic shroud which shields the components better. In practice, metal lamp-holders are generally only used for certain types of table lamps. 
 
+----
+## Understanding Wires
+
+----
+## Purchase 12V lighting
 **Purchase Lamp Holders WITH EARTH connector:**
 
 [Edison Screw (E27) Metal and Ceramic Earthed Lampholder in Silver Nickel Finish with Metal Cord Grip](https://www.amazon.co.uk/Edison-Ceramic-Earthed-Holder-Silver/dp/B00PY2L7T2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A6KUY5VMXZJR6&th=1)
