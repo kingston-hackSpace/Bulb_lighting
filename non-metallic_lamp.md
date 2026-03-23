@@ -1,6 +1,8 @@
-# METALLIC LAMP
+# NON-METALLIC LAMP
 
-If your project involves metal (example, creating a lamp with a metalic body), you MUST use a 3-core cable, which includes EARTH wiring. 
+This guide is for *NON-METALLIC devices only.* 
+
+If your project involves metal, see [this guide](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md) instead.
 
 ----
 # PARTS
