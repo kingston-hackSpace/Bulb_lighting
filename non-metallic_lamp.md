@@ -26,11 +26,13 @@ WARNING: Please purchase only the parts specified in this document, DO NOT buy o
 
 The following list will accomodate E27 bulb ***230V and 10Watts(max).*** A different bulb can create a risk of electrocution or fire. 
 
-[B&Q - E27 Bulb - 10W - Warm White]
+[B&Q - E27 Bulb - 10W - Warm White](https://www.diy.com/departments/valuelights-e27-pack-of-2-10w-standard-warm-white-led-bulbs/5016529080367_BQ.prd)
 
-[B&Q - E27 Bulb - 10W - Cold White]
+[B&Q - E27 Bulb - 10W - Cool White](https://www.diy.com/departments/valuelights-e27-pack-of-2-10w-standard-cool-white-led-bulbs/5016529080398_BQ.prd)
 
-[B&Q - E27 Bulb - 10W - Multi-Colour White]
+[B&Q - E27 Bulb - 10W - Multi-Colour White](https://www.diy.com/departments/faithfull-power-plus-led-light-bulb-a60-110-240v-10w-e27-multi-colour-one-size-/5063750436043_BQ.prd)
+
+[B&Q - E27 Bulb - 9W - Globe Filament Style](https://www.diy.com/departments/paulmann-28959-led-lamp-globe-filament-g125-9w-classic-lamp-clear-2700k-warm-white-e27/4000870289594_BQ.prd)
 
 -
 [AMAZON - E27 Bulb - 10W - Warm White]
