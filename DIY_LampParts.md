@@ -11,3 +11,5 @@ Please **book a hackSpace Wiring Sockets Consultation** before you buy any equip
 ⚠️ *Wiring to mains electricity is extremely dangerous. Incorrect wiring can cause **electrocution or fire**. Do not attempt to assemble or wire any part of this project yourself.*
 
 ----
+### Metallic or non-Metallic?
+The list of components will vary if your building a metalic or non-metallic lamp. 
