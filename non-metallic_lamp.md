@@ -9,7 +9,7 @@ WARNING: Please purchase only the parts specified in this document, DO NOT buy o
 ----
 # PARTS LIST 
 
-- E27 Bulb
+- E27 LED Bulb 230V 10W (maximum watts)
 
 - E27 Bulb socket
 
@@ -17,15 +17,40 @@ WARNING: Please purchase only the parts specified in this document, DO NOT buy o
 
 - Wire type 
 
-- UK socket with 13A fuse and strain relief
+- 230V UK socket with 2A fuse and strain relief
 
-More info below.
+*If you would like to purchase any equipment different than below, please contact a hackSpace technician for advise.* 
 
 ----
-## Bulb
+## E27 Bulb
 
-The following list will accomodate E27 bulb ***240V and 4W ONLY.*** A different bulb can create a risk of electrocution or fire. 
+The following list will accomodate E27 bulb ***230V and 10Watts(max).*** A different bulb can create a risk of electrocution or fire. 
 
+[B&Q - E27 Bulb - 10W - Warm White]
+
+[B&Q - E27 Bulb - 10W - Cold White]
+
+[B&Q - E27 Bulb - 10W - Multi-Colour White]
+
+-
+[AMAZON - E27 Bulb - 10W - Warm White]
+
+[AMAZON - E27 Bulb - 10W - Cold White]
+
+[AMAZON - E27 Bulb - 10W - Multi-Colour White]
+
+-
+
+[SCREWFIX - E27 Bulb - 10W - Warm White]
+
+[SCREWFIX - E27 Bulb - 10W - Cold White]
+
+[SCREWFIX - E27 Bulb - 10W - Multi-Colour White]
+
+
+
+----
+## Bulb Socket
 E27
 
 ----
@@ -41,7 +66,12 @@ Amazon
 ScrewFix
 
 ----
-## Bulb Socket
-E27
+## SAFE USE GUIDANCE
+
+The main risks of E27 bulb lighting:
+
+- Under-tightening: if the bulb isn't screwed in fully it can arc (spark) between the bulb contact and the socket, which generates heat and is a fire risk over time.
+
+
 
 
