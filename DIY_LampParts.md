@@ -22,6 +22,6 @@ The list of components will vary depending on whether you are building a metalli
 ----
 ### PARTS
 
-[Parts for a non-metallic lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/non-metallic_lamp.md)
+[Parts for a NON-METALLIC lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/non-metallic_lamp.md)
 
-[Parts for a metallic lamp (not advised)]
+[Parts for a METALLIC lamp (not advised)]
