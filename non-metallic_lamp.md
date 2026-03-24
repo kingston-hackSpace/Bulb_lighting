@@ -71,6 +71,8 @@ Indoor:
 
 [B&Q - Red - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/red-e27-led-ceramic-bulb-holder-lamp-base-wall-socket-converter-for-hanging-pendant-lights-uk/5056756310974_BQ.prd)
 
+-
+
 [AMAZON - Black - E27 Lamp Holder - Plastic - Indoor](https://www.amazon.co.uk/Standard-Resistant-Industrial-Decorative-Lighting/dp/B097KD76WH/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925%3Aamzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925&crid=1REYW18PRNLLO&cv_ct_cx=e27+bulb+socket&keywords=e27+bulb+socket&pd_rd_i=B097KD76WH&pd_rd_r=58f7ba03-bd06-4b8a-812d-846ab2006346&pd_rd_w=jMWTL&pd_rd_wg=AyObI&pf_rd_p=88cd78d1-9da1-45bb-8eba-0a70c3f7d925&pf_rd_r=M5AP3PFWXGJ0KHP934EN&qid=1774345274&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-29-6b4e6f58-b7c8-49cf-b378-c33ed82e3b01-spons&xpid=HAS6JF4UFgdWX&aref=sxn7sjB3Gt&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)
 
 
@@ -82,17 +84,20 @@ Indoor/Outdoor:
 
 [B&Q - White - E27 Lamp Holder - Plastic - Indoor/Outdoor](https://www.diy.com/departments/ip44-rainproof-outdoor-e27-lamp-holder-with-cable-connector-waterproof-pendant-light-fitting-black-and-white-plastic-bulb/5056756326500_BQ.prd)
 
-
-
-
-
 ----
 ## 2-core inline ON/OFF Switch 
 
-Inline swtiches are 2A standard. 
+Most of inline switches are 2A standard. See exampled below: 
 
-[B&Q - white - 240V - inline ON/OFF switch]
+[B&Q - White - 2 core- 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2-core-inline-switch-2a-multi-colour-white-/5063750501376_BQ.prd)
 
+[B&Q - Black - 2 core- 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2461bnb-2-core-inline-switch-2a-black-dcn2461bnb/5050423205624_BQ.prd)
+
+-
+
+[AMAZON - Transparent - 2 core- 6A - inline ON/OFF switch](https://www.amazon.co.uk/Inline-Switch-Button-Appliance-Rocker/dp/B0CPPC9JNN/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.4f7ef0b3-4dfc-42e5-946a-fa9ac7d7e131%3Aamzn1.sym.4f7ef0b3-4dfc-42e5-946a-fa9ac7d7e131&cv_ct_cx=inline%2Bswitch&keywords=inline%2Bswitch&pd_rd_i=B08B3RK2X8&pd_rd_r=40e66147-61a6-4483-ad70-e50d560438d5&pd_rd_w=i1X54&pd_rd_wg=KX9KZ&pf_rd_p=4f7ef0b3-4dfc-42e5-946a-fa9ac7d7e131&pf_rd_r=GM7VWV66D5R294T9PFP5&qid=1774347689&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-ad3222ed-9545-4dc8-8dd8-6b2cb5278509-spons&aref=YfUY1uwiVh&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+
+[AMAZON - White or Black - 2 core- 2A - inline ON/OFF switch](https://www.amazon.co.uk/DAJING-Inline-Light-Switch-Lamps/dp/B0FLQ9WJW8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.lKAVqy0Wj1yIY_nSHJTRxp-YCF3m6X3W4VNGqGTdKt13sqa4omLUNud5wsoLuFK6k8hqQytKvT0cM8Z7bSlx9l_xRSsbuMB50L-KdSkOJgVqV3ymhFmb7Li6YClV4pO87g5NsoBb4uMuhfsEGOIqV7hXJQwn_OcpRSgivKMF0iMqkhS4tJrrJpKsy7b9vBt5gTpaXqAoT0MScxCS3bf_I37_U4cw2j87OGzes1oqut9NwLnV_rgkr6VsxQZVlWIThWzyzCBZMBC9GCaP_aQTWm3L7S9c2T76mGG6hNAEUA8.QdqbQ8Ih0vBv-xU-yoH-aIfDiYsdkxwe5-jSS4y0iY8&dib_tag=se&keywords=inline%2Bswitch&qid=1774347689&sr=8-15&th=1)
 
 ----
 ## PRE-MADE lamp Wire + holder + mains socket + switch (INDOOR ONLY)
