@@ -61,6 +61,31 @@ WARNING! If you want to use a metallic holder (not advised), please follow [this
 
 Some examples below:
 
+Indoor:
+
+[B&Q - Blue - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/e27-lamp-holder-edison-screw-es-lamp-socket-porcelain-ceramic-batten-holder-easy-wiring-and-installation-for-wall-ceiling-lamps/5056756311131_BQ.prd)
+
+[B&Q - Black - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/industrial-black-e27-lamp-holder-vintage-pendant-light-fixture-heavy-duty-screw-in-socket-for-retro-edison-bulbs-uk/5056756311056_BQ.prd)
+
+[B&Q - Green - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/green-e27-lamp-holder-ceramic-porcelain-heat-resistant-bulb-socket-for-pendant-lighting-vintage-industrial-diy-light-fittings-uk/5056756311094_BQ.prd)
+
+[B&Q - Red - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/red-e27-led-ceramic-bulb-holder-lamp-base-wall-socket-converter-for-hanging-pendant-lights-uk/5056756310974_BQ.prd)
+
+[AMAZON - Red - E27 Lamp Holder - Porcelain/Ceramic - Indoor]
+
+
+Indoor/Outdoor:
+
+[B&Q - White/Purple - E27 Lamp Holder - Bakelite - Indoor/Outdoor](https://www.diy.com/departments/rainproof-bakelite-lamp-holder-e27-vintage-light-bulb-holder-heat-resistant-suitable-for-outdoor-indoor-lighting/5056756325800_BQ.prd)
+
+[B&Q - Black - E27 Lamp Holder - Plastic - Indoor/Outdoor](https://www.diy.com/departments/ip44-rainproof-e27-lamp-holder-with-cable-connector-for-garden-patio-shed-and-porch-black-plastic-bulb-socket-2-pack/5056756325855_BQ.prd)
+
+[B&Q - White - E27 Lamp Holder - Plastic - Indoor/Outdoor](https://www.diy.com/departments/ip44-rainproof-outdoor-e27-lamp-holder-with-cable-connector-waterproof-pendant-light-fitting-black-and-white-plastic-bulb/5056756326500_BQ.prd)
+
+
+
+
+
 ----
 ## 2-core inline ON/OFF Switch 
 
