@@ -106,12 +106,31 @@ Most of inline switches are 2A standard. See exampled below:
 
 
 ----
-## Wire (pending info)
+## 2-Core Wire
 
+Warning: The following wire type suggestions are only for a 10W bulb, and non-metallic settigs. Different settings will require extra caution. 
+
+- 2-core 0.75mm2 insulation (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
+
+- 2–5 metres long (maximum)
+
+- Materials: Fabric or PVC
+    
+
+Fabric/cloth (Indoor only)
+ 
+[Creative Cables - ]
+
+      
+Plastic Standard PVC round flex
+
+[Creative Cables - ]
 
 
 ----
 ## Wall Plug to the Mains Electricity
+
+Note: Please consider that the hackSpace technician will request changing the fuse based on the bulb in use. 
 
 [B&Q - White - 13A fuse - Wall Plug](https://www.diy.com/departments/dencon-3-pin-fused-plug-13a-white-multi-colour-one-size-/5063750465579_BQ.prd)
 
@@ -138,7 +157,7 @@ Most of inline switches are 2A standard. See exampled below:
 [AMAZON - White & Black (select) - E27 plastic holder - 3M wire - Ring for Shade](https://www.amazon.co.uk/Teynewer-Ceiling-Pendant-Suspended-Extension/dp/B0B977B6BC/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b%3Aamzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&crid=1REYW18PRNLLO&cv_ct_cx=e27%2Bbulb%2Bsocket&keywords=e27%2Bbulb%2Bsocket&pd_rd_i=B0B977B6BC&pd_rd_r=32c8cb35-16aa-474d-85d8-e713e079b256&pd_rd_w=we5Cj&pd_rd_wg=te6XA&pf_rd_p=ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&pf_rd_r=0DJF0TRAK60WZ5753VP3&qid=1774345304&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27%2Bbulb%2Bsocke%2Ckitchen%2C220&sr=1-51-39aae669-81ac-4634-b3bb-cd94d6532c6c-spons&xpid=HAS6JF4UFgdWX&aref=M0N9RSUdAK&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&th=1)
 
 ----
-## SAFE USE GUIDE
+# SAFE USE GUIDE
 
 ***⚠️ WARNING: Do not attempt to wire the lamp yourself. Please book a consultation with a HackSpace technician before proceeding.***
 
