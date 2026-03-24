@@ -117,13 +117,19 @@ Most of inline switches are 2A standard. See exampled below:
 ----
 ## SAFE USE GUIDE
 
-*WARNING: **DONT WIRE the lamp on your own, please book a CONSULTATION with a HACKSPACE TECHNICIAN for Health and Safety.*** 
+***⚠️ WARNING: Do not attempt to wire the lamp yourself. Please book a consultation with a HackSpace technician before proceeding.***
 
-The main risks:
+- If the lamp flickers, smells of burning, or feels unusually hot — unplug it immediately and consult a HackSpace technician.
+  
+- Always switch off and unplug the lamp before changing the bulb.
 
-- Always switch off and unplug the lamp before changing the bulb. 
+- Do not cover the lamp or bulb with fabric or any flammable material.
 
-- Incorrect equipment can cause overheating, fire and electrocution.
+- Keep the lamp away from water.
+
+- The lamp must be PAT tested by KU electricians before use.
+
+
 
 
 
