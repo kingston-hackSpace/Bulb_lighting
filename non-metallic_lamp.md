@@ -24,7 +24,7 @@ WARNING: Please purchase only the parts specified in this document, DO NOT buy o
 ----
 ## E27 Bulb
 
-The following list will accomodate E27 bulb ***230V and 10Watts(max).*** A different bulb can create a risk of electrocution or fire. 
+The following list will accomodate ***E27 bulb 230V and 10Watts(max).*** A different bulb can create a risk of electrocution or fire. 
 
 [B&Q - E27 Bulb - 10W - Warm White](https://www.diy.com/departments/valuelights-e27-pack-of-2-10w-standard-warm-white-led-bulbs/5016529080367_BQ.prd)
 
@@ -51,8 +51,15 @@ The following list will accomodate E27 bulb ***230V and 10Watts(max).*** A diffe
 
 
 ----
-## Bulb Socket 
-E27
+## E27 plastic/bakelite/ceramic Bulb Socket (not metallic!)
+
+Use a ***plastic, ceramic or bakelite*** (not metallic!) ***E27 bulb holder*** (also called *pendant lampholder*). 
+
+Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the socket, preventing it from being pulled out. 
+
+WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
+
+Some examples below:
 
 ----
 ## 2-core inline ON/OFF Switch 
