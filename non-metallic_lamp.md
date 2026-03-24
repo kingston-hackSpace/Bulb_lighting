@@ -117,7 +117,7 @@ Most of inline switches are 2A standard. See exampled below:
 ----
 ## SAFE USE GUIDE
 
-*WARNING: DONT WIRE the lamp on your own, please book a CONSULTATION with a HACKSPACE TECHNICIAN for Health and Safety.* 
+*WARNING: **DONT WIRE the lamp on your own, please book a CONSULTATION with a HACKSPACE TECHNICIAN for Health and Safety.*** 
 
 The main risks:
 
