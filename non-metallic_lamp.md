@@ -11,7 +11,7 @@ WARNING: Please purchase only the parts specified in this document, DO NOT buy o
 
 - E27 LED Bulb 230V 10W (maximum watts)
 
-- E27 Bulb socket
+- E27 plastic/bakelite/ceramic bulb socket (not metallic!)
 
 - 2-core inline ON-OFF switch
 
