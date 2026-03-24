@@ -115,6 +115,8 @@ Warning: The following wire type suggestions are only for a 10W bulb, and non-me
 - 2–5 metres long (maximum)
 
 - Materials: Fabric or PVC
+
+- Read more about wires [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
     
 
 Fabric/cloth (Indoor only)
