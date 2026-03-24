@@ -51,7 +51,7 @@ The following list will accomodate E27 bulb ***230V and 10Watts(max).*** A diffe
 
 
 ----
-## Bulb Socket
+## Bulb Socket 
 E27
 
 ----
