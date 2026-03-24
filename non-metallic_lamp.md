@@ -49,6 +49,10 @@ The following list will accomodate ***E27 bulb 230V and 10Watts(max).*** A diffe
 
 [SCREWFIX - E27 Bulb - 6W - Globe Filament Style](https://www.screwfix.com/p/lap-e27-globe-led-virtual-filament-light-bulb-810lm-6w/913pp)
 
+-
+
+[LEYLAND - E27 Bulb - 9W - Warm White](https://leylandsdm.co.uk/status-bulb-led-gls-ese27-9w.html)
+
 
 ----
 ## E27 plastic/bakelite/ceramic Bulb Holder (not metallic!)
@@ -99,11 +103,30 @@ Most of inline switches are 2A standard. See exampled below:
 
 [AMAZON - White or Black - 2 core- 2A - inline ON/OFF switch](https://www.amazon.co.uk/DAJING-Inline-Light-Switch-Lamps/dp/B0FLQ9WJW8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.lKAVqy0Wj1yIY_nSHJTRxp-YCF3m6X3W4VNGqGTdKt13sqa4omLUNud5wsoLuFK6k8hqQytKvT0cM8Z7bSlx9l_xRSsbuMB50L-KdSkOJgVqV3ymhFmb7Li6YClV4pO87g5NsoBb4uMuhfsEGOIqV7hXJQwn_OcpRSgivKMF0iMqkhS4tJrrJpKsy7b9vBt5gTpaXqAoT0MScxCS3bf_I37_U4cw2j87OGzes1oqut9NwLnV_rgkr6VsxQZVlWIThWzyzCBZMBC9GCaP_aQTWm3L7S9c2T76mGG6hNAEUA8.QdqbQ8Ih0vBv-xU-yoH-aIfDiYsdkxwe5-jSS4y0iY8&dib_tag=se&keywords=inline%2Bswitch&qid=1774347689&sr=8-15&th=1)
 
+
+
 ----
 ## Wire (pending info)
 
+
+
 ----
-## Wall Socket (pending info)
+## Wall Plug to the Mains Electricity
+
+[B&Q - White - 13A fuse - Wall Plug](https://www.diy.com/departments/dencon-3-pin-fused-plug-13a-white-multi-colour-one-size-/5063750465579_BQ.prd)
+
+[B&Q - Black - 13A fuse - Wall Plug](https://www.diy.com/departments/faithfull-power-plus-black-plug-13a-multi-colour-one-size-/5063750465685_BQ.prd)
+
+-
+
+[AMAZON - Black or White - 13A fuse - Wall Plug](https://www.amazon.co.uk/Plugs-Rewireable-Electrical-Rubber-Composite/dp/B0FJ5DQC1Z/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Q6ZdVNZv9dWk_9-LneDzmLXwnHGStVSSl2jwxlwmvgOSmmOdukxAskcPtPe_WWh6mOaVaJSoapZRKLGgRi6Y8RJ1wGjraJmTkskPf4riDE677N428ijNj2LO345dnmqPpkAZ-uzrjDIwgFFVcjOdu2M79cBgM8kr3nHYEbNpwoiF8RCL-RaArykyl9xkEcPg50iy4vB_88Y1WpVUrQeL0SJg9n1atE6M0zMMDYMWL6c.q3TmnkSYW5RLhQyN-01PWF6UmR1iIS4HsT3GW_TQYo0&dib_tag=se&keywords=wall%2Bplug%2Bmains&qid=1774351043&sr=8-1-spons&aref=44my3mxSPc&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+-
+
+[LEYLAND - Black - 13A fuse - Wall Plug](https://leylandsdm.co.uk/plastic-plug-with-13a-fuse-black.html)
+
+[LEYLAND - White - 13A fuse - Wall Plug](https://leylandsdm.co.uk/plastic-plug-with-13a-fuse-white.html)
+
 
 ----
 ## PRE-MADE LAMP HOLDER KIT: holder + wire + switch + mains socket (INDOOR ONLY)
