@@ -106,7 +106,7 @@ Most of inline switches are 2A standard. See exampled below:
 ## Wall Socket (pending info)
 
 ----
-## PRE-MADE lamp Wire + holder + mains socket + switch (INDOOR ONLY)
+## PRE-MADE LAMP HOLDER KIT: holder + wire + switch + mains socket (INDOOR ONLY)
 
 [AMAZON - Black - E27 plastic holder - 4M wire](https://www.amazon.co.uk/Pendant-Fitting-Sunnylinn-Suspended-Lighting/dp/B08Y5YQSP3/ref=sr_1_85?crid=1REYW18PRNLLO&dib=eyJ2IjoiMSJ9.ZXiVOl9pMH-VL5SlUuXUifvC6jm347mPEmFwqOgCvt3lJxPl1eAjRoTiV1tCweUXLDZVmbl3Xi9x7xiIDjlxpM09P0WIaxgaq5Xfi89Csx396_D29LWs4d9LuoCFMcn5Q-yUlLTRG79VU5LzovwYgUOfFZ4f2az4CkAWEs8TsgVKK8S_JbwXQid_ToggCDqRVgn2FxNpn9qKv6-TvquQEp_BjRJWHz8GlbsvYxmjhjh67-CtCkhKBGtPqIakL8Mz.0pOJb3HuklR1YVvnYseSlmPnRbE9W5hFaTq1d7R3n9k&dib_tag=se&keywords=e27+bulb+socket&qid=1774345343&s=kitchen&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-85&xpid=HAS6JF4UFgdWX)
 
