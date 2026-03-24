@@ -71,7 +71,7 @@ Indoor:
 
 [B&Q - Red - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/red-e27-led-ceramic-bulb-holder-lamp-base-wall-socket-converter-for-hanging-pendant-lights-uk/5056756310974_BQ.prd)
 
-[AMAZON - Red - E27 Lamp Holder - Porcelain/Ceramic - Indoor]
+[AMAZON - Black - E27 Lamp Holder - Plastic - Indoor](https://www.amazon.co.uk/Standard-Resistant-Industrial-Decorative-Lighting/dp/B097KD76WH/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925%3Aamzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925&crid=1REYW18PRNLLO&cv_ct_cx=e27+bulb+socket&keywords=e27+bulb+socket&pd_rd_i=B097KD76WH&pd_rd_r=58f7ba03-bd06-4b8a-812d-846ab2006346&pd_rd_w=jMWTL&pd_rd_wg=AyObI&pf_rd_p=88cd78d1-9da1-45bb-8eba-0a70c3f7d925&pf_rd_r=M5AP3PFWXGJ0KHP934EN&qid=1774345274&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-29-6b4e6f58-b7c8-49cf-b378-c33ed82e3b01-spons&xpid=HAS6JF4UFgdWX&aref=sxn7sjB3Gt&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)
 
 
 Indoor/Outdoor:
@@ -93,10 +93,15 @@ Inline swtiches are 2A standard.
 
 [B&Q - white - 240V - inline ON/OFF switch]
 
-RS components
-Amazon
 
-ScrewFix
+----
+## PRE-MADE lamp Wire + holder + mains socket + switch (INDOOR ONLY)
+
+[AMAZON - Black - E27 plastic holder - 4M wire](https://www.amazon.co.uk/Pendant-Fitting-Sunnylinn-Suspended-Lighting/dp/B08Y5YQSP3/ref=sr_1_85?crid=1REYW18PRNLLO&dib=eyJ2IjoiMSJ9.ZXiVOl9pMH-VL5SlUuXUifvC6jm347mPEmFwqOgCvt3lJxPl1eAjRoTiV1tCweUXLDZVmbl3Xi9x7xiIDjlxpM09P0WIaxgaq5Xfi89Csx396_D29LWs4d9LuoCFMcn5Q-yUlLTRG79VU5LzovwYgUOfFZ4f2az4CkAWEs8TsgVKK8S_JbwXQid_ToggCDqRVgn2FxNpn9qKv6-TvquQEp_BjRJWHz8GlbsvYxmjhjh67-CtCkhKBGtPqIakL8Mz.0pOJb3HuklR1YVvnYseSlmPnRbE9W5hFaTq1d7R3n9k&dib_tag=se&keywords=e27+bulb+socket&qid=1774345343&s=kitchen&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-85&xpid=HAS6JF4UFgdWX)
+
+[AMAZON - White - E27 plastic holder - 4M wire](https://www.amazon.co.uk/Pendant-Ceiling-Lighting-Fitting-Suspended/dp/B0CLHT4C37/ref=sr_1_78?crid=1REYW18PRNLLO&dib=eyJ2IjoiMSJ9.ZXiVOl9pMH-VL5SlUuXUifvC6jm347mPEmFwqOgCvt3lJxPl1eAjRoTiV1tCweUXLDZVmbl3Xi9x7xiIDjlxpM09P0WIaxgaq5Xfi89Csx396_D29LWs4d9LuoCFMcn5Q-yUlLTRG79VU5LzovwYgUOfFZ4f2az4CkAWEs8TsgVKK8S_JbwXQid_ToggCDqRVgn2FxNpn9qKv6-TvquQEp_BjRJWHz8GlbsvYxmjhjh67-CtCkhKBGtPqIakL8Mz.0pOJb3HuklR1YVvnYseSlmPnRbE9W5hFaTq1d7R3n9k&dib_tag=se&keywords=e27+bulb+socket&qid=1774345343&s=kitchen&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-78&xpid=HAS6JF4UFgdWX)
+
+[AMAZON - White & Black (select) - E27 plastic holder - 3M wire - Ring for Shade](https://www.amazon.co.uk/Teynewer-Ceiling-Pendant-Suspended-Extension/dp/B0B977B6BC/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b%3Aamzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&crid=1REYW18PRNLLO&cv_ct_cx=e27%2Bbulb%2Bsocket&keywords=e27%2Bbulb%2Bsocket&pd_rd_i=B0B977B6BC&pd_rd_r=32c8cb35-16aa-474d-85d8-e713e079b256&pd_rd_w=we5Cj&pd_rd_wg=te6XA&pf_rd_p=ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&pf_rd_r=0DJF0TRAK60WZ5753VP3&qid=1774345304&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27%2Bbulb%2Bsocke%2Ckitchen%2C220&sr=1-51-39aae669-81ac-4634-b3bb-cd94d6532c6c-spons&xpid=HAS6JF4UFgdWX&aref=M0N9RSUdAK&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&th=1)
 
 ----
 ## SAFE USE GUIDANCE
