@@ -51,11 +51,11 @@ The following list will accomodate ***E27 bulb 230V and 10Watts(max).*** A diffe
 
 
 ----
-## E27 plastic/bakelite/ceramic Bulb Socket (not metallic!)
+## E27 plastic/bakelite/ceramic Bulb Holder (not metallic!)
 
 Use a ***plastic, ceramic or bakelite*** (not metallic!) ***E27 bulb holder*** (also called *pendant lampholder*). 
 
-Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the socket, preventing it from being pulled out. 
+Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the holder, preventing it from being pulled out. 
 
 WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
 
@@ -100,6 +100,12 @@ Most of inline switches are 2A standard. See exampled below:
 [AMAZON - White or Black - 2 core- 2A - inline ON/OFF switch](https://www.amazon.co.uk/DAJING-Inline-Light-Switch-Lamps/dp/B0FLQ9WJW8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.lKAVqy0Wj1yIY_nSHJTRxp-YCF3m6X3W4VNGqGTdKt13sqa4omLUNud5wsoLuFK6k8hqQytKvT0cM8Z7bSlx9l_xRSsbuMB50L-KdSkOJgVqV3ymhFmb7Li6YClV4pO87g5NsoBb4uMuhfsEGOIqV7hXJQwn_OcpRSgivKMF0iMqkhS4tJrrJpKsy7b9vBt5gTpaXqAoT0MScxCS3bf_I37_U4cw2j87OGzes1oqut9NwLnV_rgkr6VsxQZVlWIThWzyzCBZMBC9GCaP_aQTWm3L7S9c2T76mGG6hNAEUA8.QdqbQ8Ih0vBv-xU-yoH-aIfDiYsdkxwe5-jSS4y0iY8&dib_tag=se&keywords=inline%2Bswitch&qid=1774347689&sr=8-15&th=1)
 
 ----
+## Wire (pending info)
+
+----
+## Wall Socket (pending info)
+
+----
 ## PRE-MADE lamp Wire + holder + mains socket + switch (INDOOR ONLY)
 
 [AMAZON - Black - E27 plastic holder - 4M wire](https://www.amazon.co.uk/Pendant-Fitting-Sunnylinn-Suspended-Lighting/dp/B08Y5YQSP3/ref=sr_1_85?crid=1REYW18PRNLLO&dib=eyJ2IjoiMSJ9.ZXiVOl9pMH-VL5SlUuXUifvC6jm347mPEmFwqOgCvt3lJxPl1eAjRoTiV1tCweUXLDZVmbl3Xi9x7xiIDjlxpM09P0WIaxgaq5Xfi89Csx396_D29LWs4d9LuoCFMcn5Q-yUlLTRG79VU5LzovwYgUOfFZ4f2az4CkAWEs8TsgVKK8S_JbwXQid_ToggCDqRVgn2FxNpn9qKv6-TvquQEp_BjRJWHz8GlbsvYxmjhjh67-CtCkhKBGtPqIakL8Mz.0pOJb3HuklR1YVvnYseSlmPnRbE9W5hFaTq1d7R3n9k&dib_tag=se&keywords=e27+bulb+socket&qid=1774345343&s=kitchen&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-85&xpid=HAS6JF4UFgdWX)
@@ -109,11 +115,15 @@ Most of inline switches are 2A standard. See exampled below:
 [AMAZON - White & Black (select) - E27 plastic holder - 3M wire - Ring for Shade](https://www.amazon.co.uk/Teynewer-Ceiling-Pendant-Suspended-Extension/dp/B0B977B6BC/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b%3Aamzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&crid=1REYW18PRNLLO&cv_ct_cx=e27%2Bbulb%2Bsocket&keywords=e27%2Bbulb%2Bsocket&pd_rd_i=B0B977B6BC&pd_rd_r=32c8cb35-16aa-474d-85d8-e713e079b256&pd_rd_w=we5Cj&pd_rd_wg=te6XA&pf_rd_p=ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&pf_rd_r=0DJF0TRAK60WZ5753VP3&qid=1774345304&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27%2Bbulb%2Bsocke%2Ckitchen%2C220&sr=1-51-39aae669-81ac-4634-b3bb-cd94d6532c6c-spons&xpid=HAS6JF4UFgdWX&aref=M0N9RSUdAK&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&th=1)
 
 ----
-## SAFE USE GUIDANCE
+## SAFE USE GUIDE
 
-The main risks of E27 bulb lighting:
+*WARNING: DONT WIRE the lamp on your own, please book a CONSULTATION with a HACKSPACE TECHNICIAN for Health and Safety.* 
 
-- Under-tightening: if the bulb isn't screwed in fully it can arc (spark) between the bulb contact and the socket, which generates heat and is a fire risk over time.
+The main risks:
+
+- Always switch off and unplug the lamp before changing the bulb. 
+
+- Incorrect equipment can cause overheating, fire and electrocution.
 
 
 
