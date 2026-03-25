@@ -123,23 +123,21 @@ Buying a inline switch:
 
 ⚠️ WARNING: The following wire-type suggestions are only for 10W bulbs and non-metallic settigs. Different settings will require extra caution. 
 
+If you want to learn more about *wires*, read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
+
+Buying wires for your lamp must be:
+
 - 2-core 0.75mm2 insulation (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
 
 - 2–5 metres long (maximum)
 
-- Materials: Fabric or PVC
+- Materials: Fabric (mostly for indoor use) or PVC
 
-- Read more about wires [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
-    
-
-Fabric/cloth (Indoor only)
  
-[Creative Cables - ]
+[Fabric/cloth - Creative Cables - ]
 
       
-Plastic Standard PVC round flex
-
-[Creative Cables - ]
+[Plastic PVC - 
 
 
 ----
