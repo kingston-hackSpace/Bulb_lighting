@@ -18,9 +18,9 @@ Avoid metal as a material for your lamp. Metals are conductive materials, which 
 ----
 ## SELECT TUTORIAL
 
-[TUTORIAL: non-metallic lamp] All elements are not metallic. 
+[TUTORIAL: non-metallic lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/non-metallic_lamp.md) : all elements are non-metallic. 
 
-[TUTORIAL: metallic lamp] Some elements are metallic. 
+[TUTORIAL: metallic lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md) : some elements are metallic. 
 
-[BONUS: 12V Lamp]
+[BONUS: 12V Lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/12V_bulb-lamp.md) : low voltage alternative for a safer practice.
 
