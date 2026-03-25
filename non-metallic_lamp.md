@@ -112,7 +112,7 @@ Most of inline switches are 2A standard.
 
 Buying a inline switch:
 
-[DANNELLS - multicolour - 2 core - 2A - inline ON/OFF switch]](https://www.dannells.com/lamp-switches-806-c.asp)
+[DANNELLS - multicolour - 2 core - 2A - inline ON/OFF switch](https://www.dannells.com/lamp-switches-806-c.asp)
 
 -
 
@@ -159,7 +159,9 @@ It is advised to consult a hackSpace technician before purchasing:
 [Fabric/cloth - DC VOLTAGE via AMAZON](https://www.amazon.co.uk/DC-VOLTAGE-Electrical-Conductors-electric/dp/B0DBWGR3YK/ref=sr_1_2_sspa?crid=10RTSYY5GKG62&dib=eyJ2IjoiMSJ9.QFV6ys6iRFXgafxiD-XtnsAkbM3x3xMONN8rQsxP1jN1PrZCrD31mSmsxQdyC7RA9TNz29gOFjOF8MkLeevQnN8aVxANdkkubF2z9oWq-r7sf4C0T1zHSru1JolC7PMj_BehpnpZmaN5Ban6c1px5wbSUGnX9u0rnzOzqTv9mYA2uqt0KOi_78b4o0qc3yBrOqrmogir77hEAlfxfCpd5BtlnH1Wl2qozxU4TEfOi1UlRjM1hFsauaAAZxzbsvHL3XzMaK8spWDKL7CrYZKG_kK6FZ6FWUJaSJNNNlrO35I.l8-yTrVZ8idhaRIM7nKa-2F_9fEAYZyR8au6WVV1h5c&dib_tag=se&keywords=cloth%2Bwire&qid=1774434684&s=industrial&sprefix=cloth%2Bwi%2Cindustrial%2C223&sr=1-2-spons&aref=d1WPbyAdJ6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 
-[Plastic PVC - 
+[B&Q - Plastic PVC - BLACK - 0.75mm - FLAT - 5M](https://www.diy.com/departments/mkgt-2-core-flat-twin-thin-wall-12v-24v-automotive-wiring-red-black-wire-cable-0-75mm-14amps-5-metres/5061006931557_BQ.prd)
+
+[B&Q - Plastic PVC - WHITE - 0.75mm - FLAT - 1M](https://www.diy.com/departments/2192y-0-75mm-white-2-core-oval-flexible-cable-6-amps-1m/5055268710142_BQ.prd)
 
 
 ----
@@ -190,6 +192,8 @@ Note: Please consider that the hackSpace technician will request changing the fu
 [AMAZON - White - E27 plastic holder - 4M wire](https://www.amazon.co.uk/Pendant-Ceiling-Lighting-Fitting-Suspended/dp/B0CLHT4C37/ref=sr_1_78?crid=1REYW18PRNLLO&dib=eyJ2IjoiMSJ9.ZXiVOl9pMH-VL5SlUuXUifvC6jm347mPEmFwqOgCvt3lJxPl1eAjRoTiV1tCweUXLDZVmbl3Xi9x7xiIDjlxpM09P0WIaxgaq5Xfi89Csx396_D29LWs4d9LuoCFMcn5Q-yUlLTRG79VU5LzovwYgUOfFZ4f2az4CkAWEs8TsgVKK8S_JbwXQid_ToggCDqRVgn2FxNpn9qKv6-TvquQEp_BjRJWHz8GlbsvYxmjhjh67-CtCkhKBGtPqIakL8Mz.0pOJb3HuklR1YVvnYseSlmPnRbE9W5hFaTq1d7R3n9k&dib_tag=se&keywords=e27+bulb+socket&qid=1774345343&s=kitchen&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-78&xpid=HAS6JF4UFgdWX)
 
 [AMAZON - White & Black (select) - E27 plastic holder - 3M wire - Ring for Shade](https://www.amazon.co.uk/Teynewer-Ceiling-Pendant-Suspended-Extension/dp/B0B977B6BC/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b%3Aamzn1.sym.ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&crid=1REYW18PRNLLO&cv_ct_cx=e27%2Bbulb%2Bsocket&keywords=e27%2Bbulb%2Bsocket&pd_rd_i=B0B977B6BC&pd_rd_r=32c8cb35-16aa-474d-85d8-e713e079b256&pd_rd_w=we5Cj&pd_rd_wg=te6XA&pf_rd_p=ba160c4e-5cb7-4a44-9b39-d6ba62fe8a2b&pf_rd_r=0DJF0TRAK60WZ5753VP3&qid=1774345304&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27%2Bbulb%2Bsocke%2Ckitchen%2C220&sr=1-51-39aae669-81ac-4634-b3bb-cd94d6532c6c-spons&xpid=HAS6JF4UFgdWX&aref=M0N9RSUdAK&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&th=1)
+
+[DANNELLS](https://www.dannells.com/electrical-assemblies-for-table-and-floor-lamps-308-c.asp). Choose the correct model.
 
 ----
 # SAFE USE GUIDE
