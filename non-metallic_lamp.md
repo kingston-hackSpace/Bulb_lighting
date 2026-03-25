@@ -9,17 +9,17 @@ If your project involves metal, see [this guide](https://github.com/kingston-hac
 ----
 # PARTS LIST 
 
-- E27 LED Bulb 230V 10W (maximum watts)
+- E27 LED Bulb, 230V, 10W maximum
 
 - E27 (plastic/bakelite/ceramic) bulb socket (non-metallic!)
 
 - 2-core inline ON-OFF switch
 
-- Wire type PENDING /////////////////////////////////////////
+- 2-core 0.75mm2 flex (cloth or PVC) max 2–5 metres long.
 
 - 230V UK socket with fuse and strain relief
 
-*If you would like to purchase any equipment different than below, please contact a hackSpace technician for advise.* 
+*If you would like to purchase any component not listed below, please consult a HackSpace technician before buying.*
 
 ----
 ## E27 Bulb
@@ -127,7 +127,7 @@ If you want to learn more about *wires*, read more [here](https://github.com/kin
 
 Buying wires for your lamp must be:
 
-- 2-core 0.75mm2 insulation (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
+- 2-core 0.75mm2 flex (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
 
 - 2–5 metres long (maximum)
 
