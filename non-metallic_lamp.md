@@ -30,7 +30,7 @@ The following links suggest suitable ***E27 LED bulbs for 230V 10Watts (max)** m
 
 Note on ***brightness***: The wattage of an LED bulb indicates energy consumption, not brightness. For brightness, check the *lumens* value — the higher the lumens, the brighter the bulb.
 
-Note on ***colour temperature***: Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here]
+Note on ***colour temperature***: Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/ColourTemp.md)
 
 If you want to learn more about *bulbs*, read [here]
 
