@@ -125,13 +125,17 @@ Buying a inline switch:
 
 If you want to learn more about *wires*, read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
 
-Buying wires for your lamp must be:
+When buying wires for your lamp, make sure it meets ***all of the following:***
 
-- 2-core 0.75mm2 flex (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
+- Voltage rating : 300/500V 
+
+- 2-core 0.75mm2 flex (sometimes listed as 2×0.75mm²). 3-core cable is also suitable.
+
+- Cable code: H03VV-F or H05VV-F 
 
 - 2–5 metres long (maximum)
 
-- Materials: Fabric (mostly for indoor use) or PVC
+- Materials: PVC or Fabric/Cloth (mostly for indoor use)
 
  
 [Fabric/cloth - Creative Cables - ]
