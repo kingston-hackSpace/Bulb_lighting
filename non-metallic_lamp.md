@@ -137,10 +137,19 @@ When buying wires for your lamp, make sure it meets ***all of the following:***
 
 - Materials: PVC or Fabric/Cloth (mostly for indoor use)
 
+It is advised to consult with a hackSpace technician before purchase:
  
-[Fabric/cloth - Creative Cables - ]
+[Fabric/cloth - Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire)
 
-      
+[Fabric/cloth - Creative Cables via Dannelss](https://www.dannells.com/fabric-covered-electrical-cable-799-c.asp)
+
+[Fabric/cloth - LEDSONE](https://ledsone.co.uk/collections/vintage-cables)
+
+[Fabric/cloth - LEDSONE via AMAZON](https://www.amazon.co.uk/LEDSone16-4ft-Electrical-conductors-Industrial-Red_White/dp/B0D9QJNFWK?ref_=ast_sto_dp&th=1)
+
+[Fabric/cloth - DC VOLTAGE via AMAZON](https://www.amazon.co.uk/DC-VOLTAGE-Electrical-Conductors-electric/dp/B0DBWGR3YK/ref=sr_1_2_sspa?crid=10RTSYY5GKG62&dib=eyJ2IjoiMSJ9.QFV6ys6iRFXgafxiD-XtnsAkbM3x3xMONN8rQsxP1jN1PrZCrD31mSmsxQdyC7RA9TNz29gOFjOF8MkLeevQnN8aVxANdkkubF2z9oWq-r7sf4C0T1zHSru1JolC7PMj_BehpnpZmaN5Ban6c1px5wbSUGnX9u0rnzOzqTv9mYA2uqt0KOi_78b4o0qc3yBrOqrmogir77hEAlfxfCpd5BtlnH1Wl2qozxU4TEfOi1UlRjM1hFsauaAAZxzbsvHL3XzMaK8spWDKL7CrYZKG_kK6FZ6FWUJaSJNNNlrO35I.l8-yTrVZ8idhaRIM7nKa-2F_9fEAYZyR8au6WVV1h5c&dib_tag=se&keywords=cloth%2Bwire&qid=1774434684&s=industrial&sprefix=cloth%2Bwi%2Cindustrial%2C223&sr=1-2-spons&aref=d1WPbyAdJ6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+
 [Plastic PVC - 
 
 
