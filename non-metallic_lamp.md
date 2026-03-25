@@ -32,7 +32,7 @@ Note on ***brightness***: The wattage of an LED bulb indicates energy consumptio
 
 Note on ***colour temperature***: Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here]
 
-If you want to learn more about *bulbs*, read more [here]
+If you want to learn more about *bulbs*, read [here]
 
 Buying a bulb:
 
@@ -73,7 +73,7 @@ Make sure it includes a built-in cord grip / strain relief — this is the part 
 
 ⚠️ WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
 
-If you want to learn more about *bulbs holders*, read more [here]
+If you want to learn more about *bulbs holders*, read [here]
 
 Buying a bulb holder:
 
@@ -95,7 +95,7 @@ Indoor:
 
 [AMAZON - Black - E27 Lamp Holder - Plastic - Indoor](https://www.amazon.co.uk/Standard-Resistant-Industrial-Decorative-Lighting/dp/B097KD76WH/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925%3Aamzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925&crid=1REYW18PRNLLO&cv_ct_cx=e27+bulb+socket&keywords=e27+bulb+socket&pd_rd_i=B097KD76WH&pd_rd_r=58f7ba03-bd06-4b8a-812d-846ab2006346&pd_rd_w=jMWTL&pd_rd_wg=AyObI&pf_rd_p=88cd78d1-9da1-45bb-8eba-0a70c3f7d925&pf_rd_r=M5AP3PFWXGJ0KHP934EN&qid=1774345274&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-29-6b4e6f58-b7c8-49cf-b378-c33ed82e3b01-spons&xpid=HAS6JF4UFgdWX&aref=sxn7sjB3Gt&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)
 
-
+-
 
 Indoor/Outdoor:
 
@@ -130,11 +130,11 @@ Buying a inline switch:
 ----
 ## 2-Core Wire
 
-⚠️ WARNING: The following wire-type suggestions are only for 10W bulbs and non-metallic settigs. Different settings will require extra caution. 
+⚠️ WARNING: This document is only for 10W bulbs and non-metallic settigs, including wire selection. Different settings will require extra caution. 
 
-If you want to learn more about *wires*, read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
+If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
 
-When buying wires for your lamp, make sure it meets ***all of the following:***
+IMPORTANT: When buying wires for your lamp, make sure it meets ***all of the following:***
 
 - Voltage rating : 300/500V 
 
@@ -146,7 +146,7 @@ When buying wires for your lamp, make sure it meets ***all of the following:***
 
 - Materials: PVC or Fabric/Cloth (mostly for indoor use)
 
-It is advised to consult with a hackSpace technician before purchase:
+It is advised to consult a hackSpace technician before purchasing:
  
 [Fabric/cloth - Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire)
 
