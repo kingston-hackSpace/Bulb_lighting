@@ -79,6 +79,10 @@ Buying a bulb holder:
 
 Indoor:
 
+[DANNELLS - Wood and plastics - E27 Lamp Holders](https://www.dannells.com/lamp-holders-241-c.asp)
+
+-
+
 [B&Q - Blue - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/e27-lamp-holder-edison-screw-es-lamp-socket-porcelain-ceramic-batten-holder-easy-wiring-and-installation-for-wall-ceiling-lamps/5056756311131_BQ.prd)
 
 [B&Q - Black - E27 Lamp Holder - Porcelain/Ceramic - Indoor](https://www.diy.com/departments/industrial-black-e27-lamp-holder-vintage-pendant-light-fixture-heavy-duty-screw-in-socket-for-retro-edison-bulbs-uk/5056756311056_BQ.prd)
@@ -90,6 +94,7 @@ Indoor:
 -
 
 [AMAZON - Black - E27 Lamp Holder - Plastic - Indoor](https://www.amazon.co.uk/Standard-Resistant-Industrial-Decorative-Lighting/dp/B097KD76WH/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925%3Aamzn1.sym.88cd78d1-9da1-45bb-8eba-0a70c3f7d925&crid=1REYW18PRNLLO&cv_ct_cx=e27+bulb+socket&keywords=e27+bulb+socket&pd_rd_i=B097KD76WH&pd_rd_r=58f7ba03-bd06-4b8a-812d-846ab2006346&pd_rd_w=jMWTL&pd_rd_wg=AyObI&pf_rd_p=88cd78d1-9da1-45bb-8eba-0a70c3f7d925&pf_rd_r=M5AP3PFWXGJ0KHP934EN&qid=1774345274&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=e27+bulb+socke%2Ckitchen%2C220&sr=1-29-6b4e6f58-b7c8-49cf-b378-c33ed82e3b01-spons&xpid=HAS6JF4UFgdWX&aref=sxn7sjB3Gt&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)
+
 
 
 Indoor/Outdoor:
@@ -107,9 +112,13 @@ Most of inline switches are 2A standard.
 
 Buying a inline switch:
 
-[B&Q - White - 2 core- 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2-core-inline-switch-2a-multi-colour-white-/5063750501376_BQ.prd)
+[DANNELLS - multicolour - 2 core - 2A - inline ON/OFF switch]](https://www.dannells.com/lamp-switches-806-c.asp)
 
-[B&Q - Black - 2 core- 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2461bnb-2-core-inline-switch-2a-black-dcn2461bnb/5050423205624_BQ.prd)
+-
+
+[B&Q - White - 2 core - 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2-core-inline-switch-2a-multi-colour-white-/5063750501376_BQ.prd)
+
+[B&Q - Black - 2 core - 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2461bnb-2-core-inline-switch-2a-black-dcn2461bnb/5050423205624_BQ.prd)
 
 -
 
