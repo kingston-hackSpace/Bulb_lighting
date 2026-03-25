@@ -162,10 +162,17 @@ It is advised to consult a hackSpace technician before purchasing:
 
 -
 
-[B&Q - Plastic PVC - BLACK - 0.75mm - FLAT - 5M](https://www.diy.com/departments/mkgt-2-core-flat-twin-thin-wall-12v-24v-automotive-wiring-red-black-wire-cable-0-75mm-14amps-5-metres/5061006931557_BQ.prd)
+[Plastic PVC - B&Q - BLACK - 0.75mm - FLAT - 5M](https://www.diy.com/departments/mkgt-2-core-flat-twin-thin-wall-12v-24v-automotive-wiring-red-black-wire-cable-0-75mm-14amps-5-metres/5061006931557_BQ.prd)
 
-[B&Q - Plastic PVC - WHITE - 0.75mm - FLAT - 1M](https://www.diy.com/departments/2192y-0-75mm-white-2-core-oval-flexible-cable-6-amps-1m/5055268710142_BQ.prd)
+[Plastic PVC - B&Q - WHITE - 0.75mm - FLAT - 1M](https://www.diy.com/departments/2192y-0-75mm-white-2-core-oval-flexible-cable-6-amps-1m/5055268710142_BQ.prd)
 
+[Plastic PVC - AMAZON - BLACK - 0.75mm - ROUND - 1M](https://www.amazon.co.uk/Primes-DIY-Round-Flexible-Approved/dp/B09HCNTLCL/ref=sr_1_9?dib=eyJ2IjoiMSJ9.U8FqgvlC_VWr4yaqJpGBF16HPxHM1iv35peAspFzWiyrXtutGl5_eEVwfj0TuOTtJj5-H4TIesBgYz9eCWuFy8fU30qmHi23GpPfmbfzaxX3Mn4FpeB2eUWi04r29JPB_nJqN4mSwTsgWOfftnd2PbI4sW90Hxf0i6x_7-DBB4SqM4HN4YfSGpYJ3mxhT2yWmfZR2kZhEPClSvmLbF8Vy1IU48I89S-_dguPfidLsdcdwDQJDgn6iQPhD6jLvdILyRa0Whu81cUp-0k1C_Rx9orXbISg-R0HmlyGR0pNhwU.WSyBOL-cLHAHfwGrJRsB3biZQ63gt1WLT0AWM58HUTw&dib_tag=se&keywords=pvc%2B0.75mm%2Bcable&qid=1774438744&sr=8-9&th=1)
+
+[Plastic PVC - AMAZON - WHITE - 0.75mm - ROUND - 1M](https://www.amazon.co.uk/LampStation-0-75mm-White-Round-Cable/dp/B0G5RKWZJ7/ref=sr_1_10?crid=2RY1NG4TP5IGD&dib=eyJ2IjoiMSJ9.hUjhkt8b6VzmyrcNbrqH2yrT9nN_mTbGIWP7fnojRp-4nqaAEvM3mbG6MRRirmqc7lgZXup2EYlWRnP4xpdWH3kyHP5rc4wFaimPiZyZnl3-ac5DV1tTfuvv6Yjyl7pfYfw5V6-2PUBt9tV29xvyq6v7M2ovz-AvnjcpXkaOy0kviubewKWUk8AnASLqyuvYbPys0tOGgQbO7CHF_aFC9PAVPmUuwcIhapbq9ZXZ7TT3QOab0qYeU2uYAdsPiFXkxrRFxF-U4YZNNxkA4ZUbKLpHO6suzgLVTQVqbj7FVq8.YEKk6IOr33UMp6yjPhLu3fkoUdYbZfi7jMEuFwK76Hs&dib_tag=se&keywords=pvc%2B0.75mm%2Bcable%2Bwhite%2Bround&qid=1774438867&sprefix=pvc%2B0.75mm%2Bcable%2Bwhite%2Broun%2Caps%2C216&sr=8-10&th=1)
+
+[Plastic PVC - SCREWFIX - BLACK - 0.75mm - ROUND - 10M](https://www.screwfix.com/p/time-2182y-black-2-core-0-75mm-flexible-cable-10m-coil/498py)
+
+[Plastic PVC - SCREWFIX - WHITE - 0.75mm - ROUND - 10M](https://www.screwfix.com/p/time-2182y-white-2-core-0-75mm-flexible-cable-10m-coil/662rf)
 
 ----
 ## Wall Plug to the Mains Electricity
