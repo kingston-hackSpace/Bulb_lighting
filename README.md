@@ -1,23 +1,28 @@
-# Bulb wiring
+# Making a Lamp with Bulbs
 ----
 
-In this tutorial we will cover how to wire a lighting bulb to the mains (240V). This is **EXTREMELY DANGEROUS**, please follow this tutorial for a safe lamp making practice. 
+This document will guide you on understanding the equipment required to make a DIY Lamp (with bulbs) connected to the mains. 
+
+Please don't wire the lamp by your self. All connections to the mains **MUST be supervised by a hackSpace technician**, and PAT tested by a KU electrician. Hs technicians will coordinate PAT testing of your lamp. 
+
+⚠️ **WARNING:** This is **EXTREMELY DANGEROUS**, please follow this document and approach a hackSpace technician for a safe lamp making practice. 
 
 *Wiring to the mains is a serious hazard of **fire and electrocution** if not done properly.*
 
-All connections to the mains **MUST be supervised by a hackSpace technician**, and PAT tested by a KU electrician. Hs technicians will coordinate PAT testing of your lamp. 
 
 ----
 ## AVOID METAL 
 
-WARNING! Avoid metal as a material for your lamp. Metals are conductive, which add a significant electrical hazard to your lamp. If you decide make your lamp of metal, your lamp MUST be WIRE to EARTH and PAT tested. Ask a hackSpace technician for guidance. 
+Avoid metal as a material for your lamp. Metals are conductive materials, which add a significant electrical hazard to your lamp. If you decide making a lamp with metallic elements, your lamp MUST be WIRE to EARTH and PAT tested. Ask a hackSpace technician for guidance. 
 
 ----
 ## Understanding Bulbs
 
-When choosing a bulb for your lamp, you will need to make sure that it matches the bulb socket that you will use for your lamp. We advise using the **E27 type**. More about this below.  
+When choosing a bulb for your lamp, you will need to make sure that it matches the bulb socket that you will use for your lamp. 
 
-Learn more [here](https://www.gelighting.com/inform/guide-light-bulb-sizes-types-shapes-and-codes)
+We advise using the **E27 type**. 
+
+More info below. 
 
 ----
 ## Understanding Bulb-Holders
