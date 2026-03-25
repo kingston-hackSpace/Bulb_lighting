@@ -1,30 +1,40 @@
 # NON-METALLIC LAMP
 
-This guide is for *NON-METALLIC devices only.* 
+This guide is for ***NON-METALLIC devices only.*** 
 
 If your project involves metal, see [this guide](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md) instead.
 
-WARNING: Please purchase only the parts specified in this document, DO NOT buy others in exchanged. Electrical components have different electrical values, and a wrong component can be a risk of electrocution or fire. 
+⚠️ **WARNING:** Please purchase only the parts **specified in this document**, DO NOT buy others in exchanged. Electrical components have different electrical values, and a wrong component can be a risk of electrocution or fire. 
 
 ----
 # PARTS LIST 
 
 - E27 LED Bulb 230V 10W (maximum watts)
 
-- E27 plastic/bakelite/ceramic bulb socket (not metallic!)
+- E27 (plastic/bakelite/ceramic) bulb socket (non-metallic!)
 
 - 2-core inline ON-OFF switch
 
-- Wire type 
+- Wire type PENDING /////////////////////////////////////////
 
-- 230V UK socket with 2A fuse and strain relief
+- 230V UK socket with fuse and strain relief
 
 *If you would like to purchase any equipment different than below, please contact a hackSpace technician for advise.* 
 
 ----
 ## E27 Bulb
 
-The following list will accomodate ***E27 bulb 230V and 10Watts(max).*** A different bulb can create a risk of electrocution or fire. 
+The following links suggest suitable ***E27 LED bulbs for 230V 10Watts (max)** mains use.
+
+⚠️ Choose a bulb between 6W and 10W — this range provides adequate brightness for a lamp while staying well within safe limits. Do not exceed this maximum to prevent overheating and fire.
+
+Note on ***brightness***: The wattage of an LED bulb indicates energy consumption, not brightness. For brightness, check the *lumens* value — the higher the lumens, the brighter the bulb.
+
+Note on ***colour temperature***: Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here]
+
+If you want to learn more about *bulbs*, read more [here]
+
+Buying a bulb:
 
 [B&Q - E27 Bulb - 10W - Warm White](https://www.diy.com/departments/valuelights-e27-pack-of-2-10w-standard-warm-white-led-bulbs/5016529080367_BQ.prd)
 
@@ -61,9 +71,11 @@ Use a ***plastic, ceramic or bakelite*** (not metallic!) ***E27 bulb holder*** (
 
 Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the holder, preventing it from being pulled out. 
 
-WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
+⚠️ WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
 
-Some examples below:
+If you want to learn more about *bulbs holders*, read more [here]
+
+Buying a bulb holder:
 
 Indoor:
 
@@ -91,7 +103,9 @@ Indoor/Outdoor:
 ----
 ## 2-core inline ON/OFF Switch 
 
-Most of inline switches are 2A standard. See exampled below: 
+Most of inline switches are 2A standard. 
+
+Buying a inline switch:
 
 [B&Q - White - 2 core- 2A - inline ON/OFF switch](https://www.diy.com/departments/dencon-2-core-inline-switch-2a-multi-colour-white-/5063750501376_BQ.prd)
 
@@ -104,11 +118,10 @@ Most of inline switches are 2A standard. See exampled below:
 [AMAZON - White or Black - 2 core- 2A - inline ON/OFF switch](https://www.amazon.co.uk/DAJING-Inline-Light-Switch-Lamps/dp/B0FLQ9WJW8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.lKAVqy0Wj1yIY_nSHJTRxp-YCF3m6X3W4VNGqGTdKt13sqa4omLUNud5wsoLuFK6k8hqQytKvT0cM8Z7bSlx9l_xRSsbuMB50L-KdSkOJgVqV3ymhFmb7Li6YClV4pO87g5NsoBb4uMuhfsEGOIqV7hXJQwn_OcpRSgivKMF0iMqkhS4tJrrJpKsy7b9vBt5gTpaXqAoT0MScxCS3bf_I37_U4cw2j87OGzes1oqut9NwLnV_rgkr6VsxQZVlWIThWzyzCBZMBC9GCaP_aQTWm3L7S9c2T76mGG6hNAEUA8.QdqbQ8Ih0vBv-xU-yoH-aIfDiYsdkxwe5-jSS4y0iY8&dib_tag=se&keywords=inline%2Bswitch&qid=1774347689&sr=8-15&th=1)
 
 
-
 ----
 ## 2-Core Wire
 
-Warning: The following wire type suggestions are only for a 10W bulb, and non-metallic settigs. Different settings will require extra caution. 
+⚠️ WARNING: The following wire-type suggestions are only for 10W bulbs and non-metallic settigs. Different settings will require extra caution. 
 
 - 2-core 0.75mm2 insulation (sometimes described as 2x0.75mm). 3-core cable is also suitable. 
 
