@@ -158,6 +158,9 @@ It is advised to consult a hackSpace technician before purchasing:
 
 [Fabric/cloth - DC VOLTAGE via AMAZON](https://www.amazon.co.uk/DC-VOLTAGE-Electrical-Conductors-electric/dp/B0DBWGR3YK/ref=sr_1_2_sspa?crid=10RTSYY5GKG62&dib=eyJ2IjoiMSJ9.QFV6ys6iRFXgafxiD-XtnsAkbM3x3xMONN8rQsxP1jN1PrZCrD31mSmsxQdyC7RA9TNz29gOFjOF8MkLeevQnN8aVxANdkkubF2z9oWq-r7sf4C0T1zHSru1JolC7PMj_BehpnpZmaN5Ban6c1px5wbSUGnX9u0rnzOzqTv9mYA2uqt0KOi_78b4o0qc3yBrOqrmogir77hEAlfxfCpd5BtlnH1Wl2qozxU4TEfOi1UlRjM1hFsauaAAZxzbsvHL3XzMaK8spWDKL7CrYZKG_kK6FZ6FWUJaSJNNNlrO35I.l8-yTrVZ8idhaRIM7nKa-2F_9fEAYZyR8au6WVV1h5c&dib_tag=se&keywords=cloth%2Bwire&qid=1774434684&s=industrial&sprefix=cloth%2Bwi%2Cindustrial%2C223&sr=1-2-spons&aref=d1WPbyAdJ6&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
+[Fabric/Cloth - B&Q](https://www.diy.com/search?term=wire%200.75mm%20fabric)
+
+-
 
 [B&Q - Plastic PVC - BLACK - 0.75mm - FLAT - 5M](https://www.diy.com/departments/mkgt-2-core-flat-twin-thin-wall-12v-24v-automotive-wiring-red-black-wire-cable-0-75mm-14amps-5-metres/5061006931557_BQ.prd)
 
