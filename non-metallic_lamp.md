@@ -32,7 +32,8 @@ Note on ***brightness***: The wattage of an LED bulb indicates energy consumptio
 
 Note on ***colour temperature***: Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/ColourTemp.md)
 
-If you want to learn more about *bulbs*, read [here]
+If you want to learn more about *bulbs*, read [here](https://www.gelighting.com/inform/guide-light-bulb-sizes-types-shapes-and-codes)
+
 
 Buying a bulb:
 
