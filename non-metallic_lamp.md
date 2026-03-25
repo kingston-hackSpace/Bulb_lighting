@@ -74,8 +74,6 @@ Make sure it includes a built-in cord grip / strain relief — this is the part 
 
 ⚠️ WARNING! If you want to use a metallic holder (not advised), please follow [this tutorial instead](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/Metallic_lamp.md).
 
-If you want to learn more about *bulbs holders*, read [here]
-
 Buying a bulb holder:
 
 Indoor:
