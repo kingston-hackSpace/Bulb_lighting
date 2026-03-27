@@ -1,8 +1,14 @@
 # METALLIC LAMP
 
-If your project involves metal, you MUST use a 3-core cable, which includes EARTH wiring.
+If your project involves metal, you **MUST use a 3-core cable, which includes EARTH wiring.**
 
-⚠️ **WARNING:** Please purchase only the parts **specified in this document**, DO NOT buy others in exchanged. Electrical components have different electrical values, and a wrong component can be a risk of electrocution or fire. 
+⚠️ NEVER wire on your own! Book a consultation with a hackSpace technician. 
+
+⚠️ ***Metallic lamps carry a significantly higher electrical risk than non-metallic lamps. Metal is conductive — if wiring is incorrect, the entire metal body of your lamp can become live, causing electrocution or fire.***
+
+⚠️ Please purchase only the parts specified *in this document*. Do not substitute components — electrical parts have specific ratings, and an incorrect component can cause electrocution or fire.
+
+Book a hackSpace *Wiring Consultation* before purchasing any parts.
 
 
 
