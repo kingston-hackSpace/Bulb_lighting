@@ -2,18 +2,23 @@
 
 If your project involves metal, you **MUST use a 3-core cable, which includes EARTH wiring.** This is a legal and essential safety requirement.
 
-⚠️ NEVER wire on your own! Book a consultation with a hackSpace technician. 
+----
+## ⚠️ Before You Do Anything
+You must book a Wiring Consultation with a hackSpace technician.
 
-⚠️ ***Metallic lamps carry a significantly higher electrical risk than non-metallic lamps. Metal is conductive — if wiring is incorrect, the entire metal body of your lamp can become live, causing electrocution or fire.***
+Wiring carries risk and must never be attempted alone, even if you’ve followed tutorials online or seen others do it.
+
+----
+## ⚠️ Why Metallic Lamps Are Higher Risk
+
+Metallic lamps carry a significantly higher electrical risk than non-metallic lamps. Metal is conductive — if wiring is incorrect, the entire metal body of your lamp can become live, causing electrocution or fire.
+
+----
+# PARTS LIST 
 
 ⚠️ Please purchase only the parts specified *in this document*. Do not substitute components — electrical parts have specific ratings, and an incorrect component can cause electrocution or fire.
 
 Book a hackSpace *Wiring Consultation* before purchasing any parts.
-
-
-
-----
-# PARTS LIST 
 
 - E27 LED Bulb, 230V, 10W maximum
 
