@@ -36,9 +36,9 @@ Book a hackSpace *Wiring Consultation* before purchasing any parts.
 ----
 ## E27 Bulb
 
-The following links suggest suitable ***E27 LED bulbs for 230V 10Watts (max)** mains use.
+The following links suggest suitable ***E27 LED bulbs for 230V 10Watts (max)*** mains use.
 
-⚠️ Choose a bulb between 6W and 10W — this range provides adequate brightness for a lamp while staying well within safe limits. Do not exceed this maximum to prevent overheating and fire.
+⚠️ Choose a bulb between 6W and 10W — this range provides adequate brightness for a lamp while staying well within safe limits. Do not exceed 10W, as higher‑powered bulbs can cause overheating and increase fire risk.
 
 Note on ***brightness***: The wattage of an LED bulb indicates energy consumption, not brightness. For brightness, check the *lumens* value — the higher the lumens, the brighter the bulb.
 
