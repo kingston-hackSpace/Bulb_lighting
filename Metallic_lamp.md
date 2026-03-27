@@ -1,6 +1,6 @@
 # METALLIC LAMP
 
-If your project involves metal, you **MUST use a 3-core cable, which includes EARTH wiring.**
+If your project involves metal, you **MUST use a 3-core cable, which includes EARTH wiring.** This is a legal and essential safety requirement.
 
 ⚠️ NEVER wire on your own! Book a consultation with a hackSpace technician. 
 
