@@ -22,7 +22,7 @@ Book a hackSpace *Wiring Consultation* before purchasing any parts.
 
 - E27 LED Bulb, 230V, 10W maximum
 
-- E27 bulb socket ***with EARTH***
+- E27 bulb socket ***with EARTH*** (class I)
 
 - 3-core inline ON-OFF switch
 
@@ -76,7 +76,7 @@ Buying a bulb:
 [LEYLAND - E27 Bulb - 9W - Warm White](https://leylandsdm.co.uk/status-bulb-led-gls-ese27-9w.html)
 
 ----
-## E27 Bulb Holder (WITH EARTH!)
+## E27 Bulb Holder (WITH EARTH!) - class I
 
 Use a ***E27 bulb holder*** (also called *pendant lampholder*). with EARTH terminals! This is key for safety. 
 
@@ -86,5 +86,19 @@ Look for CE/UKCA marking from a reputable supplier.
 
 ⚠️ WARNING! Many “vintage-style” do not include an earth terminal. Check before you buy. 
 
-Buying a bulb holder:
+Buying a BARE holder:
 
+[B&Q - Ceramic - E27 Bulb - Class I (earth terminal included)](https://www.diy.com/departments/3pcs-light-fitting-e27-es-lamp-holder-base-pendant-light-fitting-ceramic-bulb-holder-socket-porcelain-lamp-holder-knob-spare-part/5056756311704_BQ.prd)
+
+- 
+Buying a CASED holder:
+
+[B&Q - Colour : Cooper - E27 Bulb - Class I (earth terminal included)](https://www.diy.com/departments/vintage-e27-bulb-socket-105mm-h-40mm-d-e27-lamp-holders-brass-1-2in-e27-edison-screw-switched-lamp-holder-retro-light-bulb-holder/5056756312503_BQ.prd)
+
+[B&Q - Colour : Silver - E27 Bulb - Class I (earth terminal included)](https://www.diy.com/departments/light-fitting-sn-brass-e27-lamp-holders-metal-vintage-edison-bulb-holder-screw-in-lamp-base-105mm-socket-pendant-light-fitting/5056756312459_BQ.prd)
+
+[B&Q - Colour : Brass - E27 Bulb - Class I (earth terminal included)](https://www.diy.com/departments/vintage-e27-bulb-socket-105mm-h-40mm-d-e27-lamp-holders-brass-1-2in-e27-edison-screw-switched-lamp-holder-retro-light-bulb-holder/5056756312466_BQ.prd)
+
+-
+
+[AMAZON - Metallic Colour Selection - E27 Bulb - Class I (earth terminal included)](https://www.amazon.co.uk/DiCUNO-Vintage-Ceramics-Lampholder-Champaign/dp/B0B2L4TT8J/ref=sr_1_1_sspa?crid=2VVHIDNYHMKVF&dib=eyJ2IjoiMSJ9.avwXHM4HCUyDEK7H63RhnfNSZJLsEKqWwCfwX4lXLzQzFxpsDJlM60pAOj7EFrk9BmE_29rvJ1MEsCHQnoYGAV76527VMPN3z1OtCBCI7R0bE0Q3YWbzjLKJNA3Z_FuZs8KRt6h5BGk2a1LOiv84feJz_zgtBczhmKeiKJKGRBm3LTUGP7z2kPgN91RPTxJx5uGWtyHUzLPMCbhfKY5retdsrBiK8bc4TfQco4s9n-78l9ujVUhmg9DtJq3W20p1YGk0j407S90vPRZqQzxPqe9v5_XqBE-lglUwlFAxXdc.pUKJ-Cglh33Yu3RGBmUogRKCGjK5PGCCzLsJvZ1kTqo&dib_tag=se&keywords=e27%2Bbulb%2Bsocket%2Bclass%2B1&qid=1774630180&s=kitchen&sprefix=e27%2Bbulb%2Bsocket%2Bclass%2B1%2Ckitchen%2C245&sr=1-1-spons&aref=66LNwPVW28&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
