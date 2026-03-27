@@ -75,3 +75,16 @@ Buying a bulb:
 
 [LEYLAND - E27 Bulb - 9W - Warm White](https://leylandsdm.co.uk/status-bulb-led-gls-ese27-9w.html)
 
+----
+## E27 Bulb Holder (WITH EARTH!)
+
+Use a ***E27 bulb holder*** (also called *pendant lampholder*). with EARTH terminals! This is key for safety. 
+
+Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the holder, preventing it from being pulled out. 
+
+Look for CE/UKCA marking from a reputable supplier.
+
+⚠️ WARNING! Many “vintage-style” do not include an earth terminal. Check before you buy. 
+
+Buying a bulb holder:
+
