@@ -113,21 +113,21 @@ Buying a 3-core (earth included) inline switch:
 ----
 ## 3-core Wire
 
-⚠️ WARNING: The following wire selection is suitable for powering a 10 W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
+⚠️ WARNING: The following wire selection is suitable for powering a 10W(max) bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
 
 If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
 
 IMPORTANT: When buying wires for your lamp, make sure it meets ***all of the following:***
 
-Voltage rating : 300/500V
+- Voltage rating : 300/500V
 
-3-core (earth included) 0.75mm2 flex (sometimes listed as 2×0.75mm²)
+- ***3-core*** (earth included) 0.75mm2 flex (sometimes listed as 3×0.75mm²)
 
-Cable code: H03VV-F or H05VV-F
+- Cable code: H03VV-F or H05VV-F
 
-2–5 metres long (maximum)
+- 2–5 metres long (maximum)
 
-Materials: PVC or Fabric/Cloth (mostly for indoor use)
+- Materials: PVC or Fabric/Cloth (mostly for indoor use)
 
 It is advised to consult a hackSpace technician before purchasing.
 
