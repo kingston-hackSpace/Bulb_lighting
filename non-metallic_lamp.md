@@ -132,7 +132,7 @@ Buying a inline switch:
 
 
 ----
-## 2-Core Wire
+## 2-core Wire
 
 ⚠️ WARNING: This document is only for 10W bulbs and non-metallic settigs, including wire selection. Different settings will require extra caution. 
 
