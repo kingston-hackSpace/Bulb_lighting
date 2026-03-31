@@ -134,7 +134,7 @@ Buying a inline switch:
 ----
 ## 2-core Wire
 
-⚠️ WARNING: This document is only for 10W bulbs and non-metallic settigs, including wire selection. Different settings will require extra caution. 
+⚠️ WARNING: The following wire selection is suitable for powering a 10 W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
 
 If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
 
