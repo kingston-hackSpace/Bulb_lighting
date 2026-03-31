@@ -78,7 +78,7 @@ Buying a bulb:
 ----
 ## E27 Bulb Holder (WITH EARTH!) - class I
 
-Use a ***E27 bulb holder*** (also called *pendant lampholder*). with EARTH terminals! This is key for safety. 
+Use a ***E27 bulb holder*** (also called *pendant lampholder*) with EARTH terminals! This is key for safety. 
 
 Make sure it includes a built-in cord grip / strain relief — this is the part that clamps the cable inside the holder, preventing it from being pulled out. 
 
