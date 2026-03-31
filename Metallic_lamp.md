@@ -110,6 +110,12 @@ Most of inline switches are 2A standard.
 
 Buying a 3-core (earth included) inline switch:
 
+[DANNELLS - Black - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/single-pole-in-line-switch-with-earth-terminal---black-8095-p.asp)
+
+[DANNELLS - White - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/single-pole-in-line-switch-with-earth-terminal---white-8096-p.asp)
+
+[DANNELLS - White/Squared - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/unipolar-wire-breaker-push-rocker-switch---white-5406-p.asp)
+
 ----
 ## 3-core Wire
 
