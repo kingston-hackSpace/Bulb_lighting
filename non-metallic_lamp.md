@@ -7,6 +7,11 @@ If your project involves metal, see [this guide](https://github.com/kingston-hac
 ⚠️ **WARNING:** Please purchase only the parts **specified in this document**, DO NOT buy others in exchanged. Electrical components have different electrical values, and a wrong component can be a risk of electrocution or fire. 
 
 ----
+## Lamp Body Materials
+
+Use non-conductive materials such as wood, plastic, ceramic, or resin for the lamp body.
+
+----
 # PARTS LIST 
 
 - E27 LED Bulb, 230V, 10W maximum
