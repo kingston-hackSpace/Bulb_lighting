@@ -102,3 +102,37 @@ Buying a CASED holder:
 -
 
 [AMAZON - Metallic Colour Selection - E27 Bulb - Class I (earth terminal included)](https://www.amazon.co.uk/DiCUNO-Vintage-Ceramics-Lampholder-Champaign/dp/B0B2L4TT8J/ref=sr_1_1_sspa?crid=2VVHIDNYHMKVF&dib=eyJ2IjoiMSJ9.avwXHM4HCUyDEK7H63RhnfNSZJLsEKqWwCfwX4lXLzQzFxpsDJlM60pAOj7EFrk9BmE_29rvJ1MEsCHQnoYGAV76527VMPN3z1OtCBCI7R0bE0Q3YWbzjLKJNA3Z_FuZs8KRt6h5BGk2a1LOiv84feJz_zgtBczhmKeiKJKGRBm3LTUGP7z2kPgN91RPTxJx5uGWtyHUzLPMCbhfKY5retdsrBiK8bc4TfQco4s9n-78l9ujVUhmg9DtJq3W20p1YGk0j407S90vPRZqQzxPqe9v5_XqBE-lglUwlFAxXdc.pUKJ-Cglh33Yu3RGBmUogRKCGjK5PGCCzLsJvZ1kTqo&dib_tag=se&keywords=e27%2Bbulb%2Bsocket%2Bclass%2B1&qid=1774630180&s=kitchen&sprefix=e27%2Bbulb%2Bsocket%2Bclass%2B1%2Ckitchen%2C245&sr=1-1-spons&aref=66LNwPVW28&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+----
+## 3-core inline ON/OFF Switch
+
+Most of inline switches are 2A standard.
+
+Buying a 3-core (earth included) inline switch:
+
+----
+## 3-core Wire
+
+⚠️ WARNING: The following wire selection is suitable for powering a 10 W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
+
+If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
+
+IMPORTANT: When buying wires for your lamp, make sure it meets ***all of the following:***
+
+Voltage rating : 300/500V
+
+3-core (earth included) 0.75mm2 flex (sometimes listed as 2×0.75mm²)
+
+Cable code: H03VV-F or H05VV-F
+
+2–5 metres long (maximum)
+
+Materials: PVC or Fabric/Cloth (mostly for indoor use)
+
+It is advised to consult a hackSpace technician before purchasing.
+
+[Fabric/cloth - B&Q - Black - 1M](https://www.diy.com/departments/primes-diy-3-core-round-black-flex-flexible-cable-wire-0-75mm-1-meter-3-core-flexible-cables/5056756303358_BQ.prd)
+
+[PVC - B&Q - White - 1M](https://www.diy.com/departments/3183y-0-75mm-white-3-core-round-flexible-cable-6-amps-1m/5055268710144_BQ.prd)
+
+
