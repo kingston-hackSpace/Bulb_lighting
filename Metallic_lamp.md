@@ -116,6 +116,10 @@ Buying a 3-core (earth included) inline switch:
 
 [DANNELLS - White/Squared - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/unipolar-wire-breaker-push-rocker-switch---white-5406-p.asp)
 
+[DANNELLS - Gold - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/single-pole-in-line-switch-with-earth-terminal---gold-8097-p.asp)
+
+[DANNELLS - Transparent - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/single-pole-in-line-switch-with-earth-terminal---transparent-8098-p.asp)
+
 ----
 ## 3-core Wire
 
