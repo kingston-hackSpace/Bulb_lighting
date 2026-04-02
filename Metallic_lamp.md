@@ -120,6 +120,17 @@ Buying a 3-core (earth included) inline switch:
 
 [DANNELLS - Transparent - 3 core - 2A - inline ON/OFF switch](https://www.dannells.com/single-pole-in-line-switch-with-earth-terminal---transparent-8098-p.asp)
 
+ -
+ 
+[B&Q - Gold - 3 core - 6A - inline ON/OFF switch](https://www.diy.com/departments/gold-in-line-torpedo-switch-2-or-3-core-ideal-for-table-lamp-rocker-switch/5050423001837_BQ.prd)
+
+[B&Q - White - 3 core - inline ON/OFF switch](https://www.diy.com/departments/knightsbridge-ilcs-inline-switch-torpedo-switch-2-3-core-for-table-lamps/5055559139430_BQ.prd)
+
+-
+
+[Amazon - Multicoloured - 3 core - 2A - inline ON/OFF switch](https://www.amazon.co.uk/Profile-Line-Torpedo-Switch-ElekTek/dp/B01GU8WTRM/ref=sr_1_15?dib=eyJ2IjoiMSJ9.dDxkHAbYjqU-uUznMvUb602QTeOama5T3LHQUfKKQ28eYSPyqrzz_VnImdrzSAtuZ7ydrwBi95Du0RpAFE74p9HrkR3Ldwby7Eg0IJDRbai0PHZcRYqyvduSbsa_lzPPj2jho8pouylFj0keIkPJh0nXa6cDUdCjvhAQr1POolk3dN4cYzDgBvqPUKNwwiEgodi5ieRt9Trbg-Zd57TBkukGWt2u-Z4LLPqWyFX1oo4I936aRN-UwoZm1gqX7_d3ekMZRXmEkaXAnMhaFK7SBAtgLvgzfxQuKXS5UOapazk.lcDx4PhCfwF8g5mt4lutkxCq8UJlWjv_iqJRMoYibw4&dib_tag=se&keywords=3%2Bcore%2Binline%2Bswitch&qid=1775128751&sr=8-15&th=1)
+
+
 ----
 ## 3-core Wire
 
