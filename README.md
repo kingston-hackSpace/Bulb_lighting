@@ -24,3 +24,17 @@ Avoid metal as a material for your lamp. Metals are conductive materials, which 
 
 [BONUS: 12V Lamp](https://github.com/kingston-hackSpace/Bulb_lighting/blob/main/12V_bulb-lamp.md) : low voltage alternative for a safer practice.
 
+----
+## WHYT DO WE DO PAT TESTING
+
+PAT testing is done when making or wiring lamps to make sure the lamp is electrically safe before it is used. In simple terms, it helps prevent electric shock, fire, and equipment damage.
+
+To reduce the risk of electric shock, if a lamp has:
+
+- A damaged cable
+
+- A faulty switch
+
+- Loose connections inside the plug or lampholder
+
+- An incorrectly connected earth
