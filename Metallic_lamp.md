@@ -76,6 +76,13 @@ Buying a bulb:
 [LEYLAND - E27 Bulb - 9W - Warm White](https://leylandsdm.co.uk/status-bulb-led-gls-ese27-9w.html)
 
 ----
+## E27 SMART Bulb
+
+[THE PIHUT - E27 SMART Bulb - 8.5W - Multicolour](https://thepihut.com/products/shelly-multicolour-bulb-e27-gen3)
+
+[THE PIHUT - E27 SMART Bulb - 8.5W - Dimable Warm&Cool White](https://thepihut.com/products/shelly-duo-bulb-e27-gen3)
+
+----
 ## E27 Bulb Holder (WITH EARTH!) - class I
 
 Use a ***E27 bulb holder*** (also called *pendant lampholder*) with EARTH terminals! This is key for safety. 
