@@ -69,7 +69,9 @@ Buying a bulb:
 
 [LEYLAND - E27 Bulb - 9W - Warm White](https://leylandsdm.co.uk/status-bulb-led-gls-ese27-9w.html)
 
--
+
+----
+## E27 SMART Bulb
 
 [THE PIHUT - E27 SMART Bulb - 8.5W - Multicolour](https://thepihut.com/products/shelly-multicolour-bulb-e27-gen3)
 
