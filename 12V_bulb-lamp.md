@@ -90,7 +90,23 @@ Buying a inline switch:
 [AMAZON - White or Black - 2 core- 2A - inline ON/OFF switch](https://www.amazon.co.uk/DAJING-Inline-Light-Switch-Lamps/dp/B0FLQ9WJW8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.lKAVqy0Wj1yIY_nSHJTRxp-YCF3m6X3W4VNGqGTdKt13sqa4omLUNud5wsoLuFK6k8hqQytKvT0cM8Z7bSlx9l_xRSsbuMB50L-KdSkOJgVqV3ymhFmb7Li6YClV4pO87g5NsoBb4uMuhfsEGOIqV7hXJQwn_OcpRSgivKMF0iMqkhS4tJrrJpKsy7b9vBt5gTpaXqAoT0MScxCS3bf_I37_U4cw2j87OGzes1oqut9NwLnV_rgkr6VsxQZVlWIThWzyzCBZMBC9GCaP_aQTWm3L7S9c2T76mGG6hNAEUA8.QdqbQ8Ih0vBv-xU-yoH-aIfDiYsdkxwe5-jSS4y0iY8&dib_tag=se&keywords=inline%2Bswitch&qid=1774347689&sr=8-15&th=1)
 
 ----
-### Purchasing a 12V Power Supply
+### Purchasing a 12V Power Supply (current: 1.5A or higher)
+
+[AMAZON - 12V 2A - 1.5M Cable](https://www.amazon.co.uk/100-240V-Converter-Adapter-Portable-Approved/dp/B019RO949C/ref=sr_1_13?crid=7APFIV66KT6M&dib=eyJ2IjoiMSJ9.YzMM_Nit947NF2z5T16dNjo4oa2Yc4W6DquViaCjCfCJiioerjeStjLDXddpQv-A4HOGzxctpzqyuRVY7Z_p05pywtRZksJ_tc4UaCFWo7x_WgRLyKa7nctJGGkMgj8Q-LJwOjrJ7Q5SdLIBnUITR0YyCVA9MNQ5KH_MAi0r9HGK7lzvD4FBPdFdEkLbGjER85ptOvX-mAWIY-7yNXK5qxYTrrS96eKAonuw1kfAT00.onvWKHmnUejrkRXtaQmWPTW8Ghw0ECd1zI7yA9CR3kI&dib_tag=se&keywords=12V+Power+supply&qid=1779114274&sprefix=12v+power+supply%2Caps%2C109&sr=8-13)
+
+[AMAZON - 12V 2A - 1.5M Cable](https://www.amazon.co.uk/Yisica-100-240V-Converter-Adapter-Transformer/dp/B0GBTD3C9C/ref=sr_1_12?crid=7APFIV66KT6M&dib=eyJ2IjoiMSJ9.YzMM_Nit947NF2z5T16dNjo4oa2Yc4W6DquViaCjCfCJiioerjeStjLDXddpQv-A4HOGzxctpzqyuRVY7Z_p05pywtRZksJ_tc4UaCFWo7x_WgRLyKa7nctJGGkMgj8Q-LJwOjrJ7Q5SdLIBnUITR0YyCVA9MNQ5KH_MAi0r9HGK7lzvD4FBPdFdEkLbGjER85ptOvX-mAWIY-7yNXK5qxYTrrS96eKAonuw1kfAT00.onvWKHmnUejrkRXtaQmWPTW8Ghw0ECd1zI7yA9CR3kI&dib_tag=se&keywords=12V%2BPower%2Bsupply&qid=1779114274&sprefix=12v%2Bpower%2Bsupply%2Caps%2C109&sr=8-12&th=1)
+
+[AMAZON - 12V 3A - 1.8M Cable](https://www.amazon.co.uk/Supply-Adapter-Security-Monitor-Charger%E3%80%905-5/dp/B0CFHDY1FF/ref=sr_1_4?crid=7APFIV66KT6M&dib=eyJ2IjoiMSJ9.YzMM_Nit947NF2z5T16dNjo4oa2Yc4W6DquViaCjCfCJiioerjeStjLDXddpQv-A4HOGzxctpzqyuRVY7Z_p05pywtRZksJ_tc4UaCFWo7x_WgRLyKa7nctJGGkMgj8Q-LJwOjrJ7Q5SdLIBnUITR0YyCVA9MNQ5KH_MAi0r9HGK7lzvD4FBPdFdEkLbGjER85ptOvX-mAWIY-7yNXK5qxYTrrS96eKAonuw1kfAT00.onvWKHmnUejrkRXtaQmWPTW8Ghw0ECd1zI7yA9CR3kI&dib_tag=se&keywords=12V%2BPower%2Bsupply&qid=1779114274&sprefix=12v%2Bpower%2Bsupply%2Caps%2C109&sr=8-4&th=1)
+
+[AMAZON - 12V 3A - 1.2M Cable](https://www.amazon.co.uk/LBSC-Adapter-Transformer-Monitor-12v3a/dp/B07S7PH77C/ref=sr_1_7?crid=7APFIV66KT6M&dib=eyJ2IjoiMSJ9.YzMM_Nit947NF2z5T16dNjo4oa2Yc4W6DquViaCjCfCJiioerjeStjLDXddpQv-A4HOGzxctpzqyuRVY7Z_p05pywtRZksJ_tc4UaCFWo7x_WgRLyKa7nctJGGkMgj8Q-LJwOjrJ7Q5SdLIBnUITR0YyCVA9MNQ5KH_MAi0r9HGK7lzvD4FBPdFdEkLbGjER85ptOvX-mAWIY-7yNXK5qxYTrrS96eKAonuw1kfAT00.onvWKHmnUejrkRXtaQmWPTW8Ghw0ECd1zI7yA9CR3kI&dib_tag=se&keywords=12V%2BPower%2Bsupply&qid=1779114274&sprefix=12v%2Bpower%2Bsupply%2Caps%2C109&sr=8-7&th=1)
+
+-
+
+[THE PIHUT - 12V 2A - 1.5M Cable](https://thepihut.com/products/12v-2a-power-supply-with-2-1mm-barrel-jack)
+
+-
+
+[KITRONIK - 12V 2A - 1.4M Cable](https://kitronik.co.uk/products/2266-12v-2a-wall-block-power-supply)
 
 ----
 ### Colour Temperature & Brightness
