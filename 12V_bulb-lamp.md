@@ -1,8 +1,12 @@
 ----
 # Making a 12V lighting device
 
+If you plan buying equipment different than the listed below, please check the suitability with a hackSpace technician.
+
+Approach a hackSpace technician if you have any questions, we are here to help! :)
+
 ----
-### Purchasing E127 Lamp holders (for 12V bulbs)
+### Purchasing E27 Lamp holders (for 12V bulbs)
 
 - content pending
 
@@ -20,8 +24,16 @@
 - [12V Bulb 9W LED type Warm White (3000K) from RS Components](https://uk.rs-online.com/web/p/led-bulbs/2863959)
 
 - [12V Bulb 12W LED type Warm White (3000K)from RS Components](https://uk.rs-online.com/web/p/led-bulbs/2863961)
-  
-- [SwitchElectronics.com](https://www.switchelectronics.co.uk/collections/bulbs)
 
 ----
-### Note on Colour Temperature
+### Purchasing Cables
+
+----
+### Purchasing a 12V Power Supply
+
+----
+### Note on Colour Temperature & Brightness
+
+**Note on brightness:** The wattage of an LED bulb indicates energy consumption, not brightness. For brightness, check the lumens value — the higher the lumens, the brighter the bulb.
+
+**Note on colour temperature:** Colour temperature is measured in Kelvin (K) and describes how warm or cool the light appears. Read more [here](https://github.com/kingston-hackSpace/HighVoltage_Lamp/blob/main/ColourTemp.md)
