@@ -32,7 +32,7 @@ Approach a hackSpace technician if you have any questions, we are here to help! 
 ### Purchasing a 12V Power Supply
 
 ----
-### Note on Colour Temperature & Brightness
+### Colour Temperature & Brightness
 
 **Note on brightness:** The wattage of an LED bulb indicates energy consumption, not brightness. For brightness, check the lumens value — the higher the lumens, the brighter the bulb.
 
