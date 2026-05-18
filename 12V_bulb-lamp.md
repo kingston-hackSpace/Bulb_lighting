@@ -6,7 +6,7 @@ If you plan buying equipment different than the listed below, please check the s
 Approach a hackSpace technician if you have any questions, we are here to help! :)
 
 ----
-### Purchasing E27 Lamp holders (for 12V bulbs)
+### Purchasing E27 Lamp holders
 
 - content pending
 
