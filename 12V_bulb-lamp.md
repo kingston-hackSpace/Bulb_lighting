@@ -28,7 +28,7 @@ Approach a hackSpace technician if you have any questions, we are here to help! 
 ----
 ### Purchasing 2-core Wire
 
-⚠️ WARNING: The following wire selection is suitable for powering a 10W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
+⚠️ WARNING: The following wire selection is suitable for powering a 12W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
 
 If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
 
