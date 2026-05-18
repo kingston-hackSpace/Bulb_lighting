@@ -1,5 +1,5 @@
 ----
-# Making a 12V lighting device
+# Making a 12V lamp
 
 This guide is for ***12V lighting ONLY***
 
