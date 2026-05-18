@@ -1,9 +1,15 @@
 ----
 # Making a 12V lighting device
 
-If you plan buying equipment different than the listed below, please check the suitability with a hackSpace technician.
+This guide is for ***12V lighting ONLY***
 
-Approach a hackSpace technician if you have any questions, we are here to help! :)
+WARNING:
+
+- If your project involves high voltage, please approach a hackSpace technician before buying any equipment and/or wiring. 
+
+- If you plan buying equipment different than the listed below, please check the suitability with a hackSpace technician.
+
+- If you have any questions, please approach a hackSpace technician, we are here to help! :)
 
 ----
 ### Purchasing E27 Lamp holders
@@ -31,6 +37,8 @@ Approach a hackSpace technician if you have any questions, we are here to help! 
 ⚠️ WARNING: The following wire selection is suitable for powering a 12W bulb. If your bulb has a higher power rating, please consult a hackSpace technician.
 
 If you want to learn more about *wires*, read [here](https://github.com/kingston-hackSpace/About_wires/blob/main/README.md)
+
+-
 
  
 [Fabric/cloth - Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire)
